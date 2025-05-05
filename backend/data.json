@@ -1,0 +1,162 @@
+{
+  "profile": {
+    "name": "Abhishek Nair",
+    "contact": {
+      "phone": "+49 176 70016328",
+      "email": "abhishek.nair123@yahoo.com",
+      "handle": "@padawanabhi",
+      "address": "Bürgerstraße 29. 12347 Berlin"
+    },
+    "summary": "Innovative Robotics Hardware Engineer and Manager with a robust background in firmware development, prototyping, hardware commissioning, and systems integration for industrial and autonomous platforms. Proven expertise in deploying and testing electronic systems under harsh conditions, streamlining production processes, and driving design improvements from concept through to certification",
+    "competencies": [
+      "Robotics Systems Integration & Sensor Fusion (LiDAR, Radar, Cameras, IMUs)",
+      "Firmware Development & Embedded Systems",
+      "Custom Software Development for Robotics, AI & Autonomous Movement",
+      "EMC Testing, Hardware Commissioning, & Troubleshooting",
+      "Prototyping, Requirements Gathering, & Architecture Design",
+      "Mechanical Assembly, Wiring & Cable Harness Construction",
+      "Inventory Management & Maintenance Protocols",
+      "CAD/CAM & Rapid Prototyping (3D Printing, Fusion360)",
+      "Communication Protocols (CAN, I2C, SPI)"
+    ]
+  },
+  "experience": [
+    {
+      "id": "bearcover",
+      "company": "Bearcover GmbH",
+      "role": "Robotics Compliance Engineer (Part-time)",
+      "duration": "January 2025 - March 2025",
+      "location": "Berlin, Germany",
+      "description": [
+        "Spearheaded hardware design improvements to ensure the robotic system met stringent CE certification requirements for operation in extreme environments.",
+        "Collaborated closely with cross-functional teams to refine sensor integration and signal routing, addressing EMI, power management, and signal integrity challenges.",
+        "Developed detailed test plans and safety documentation to streamline hardware validation and compliance processes."
+      ]
+    },
+    {
+      "id": "voltvoegel",
+      "company": "VoltVogel UG",
+      "role": "Co-Founder & COO",
+      "duration": "June 2023 - November 2024",
+      "location": "Berlin, Germany",
+      "description": [
+        "Led firmware development for the charge controller, enabling robust power management for the autonomous EV solution.",
+        "Built prototypes and conducted iterative testing, while overseeing requirements gathering and architecture design for scalable systems.",
+        "Developed software components for robotic and autonomous movement, enhancing system responsiveness and navigation.",
+        "Coordinated with suppliers and testing teams to ensure quality components and reliable system integration."
+      ]
+    },
+    {
+      "id": "carbonfreed",
+      "company": "CarbonFreed GmbH",
+      "role": "Lead AI Software Developer",
+      "duration": "March 2023 - June 2024",
+      "location": "Berlin, Germany",
+      "description": [
+        "Designed and implemented AI system architectures that supported automation and scalability, integrating seamlessly with hardware components.",
+        "Developed, tested, and deployed robust AI services that enhanced operational efficiency and automated complex certification processes.",
+        "Collaborated with cross-functional teams to align software and hardware strategies, ensuring optimal performance of integrated systems."
+      ]
+    },
+    {
+      "id": "bertrandt",
+      "company": "Bertrandt AG",
+      "role": "Software Developer in Electronic Verification (BSH Hausgeräte GmbH)",
+      "duration": "March 2022 - August 2022",
+      "location": "Berlin, Germany",
+      "description": [
+        "Developed and automated testing frameworks for household appliances using robotics automation and computer vision techniques.",
+        "Collaborated with cross-disciplinary teams to validate electronic systems and ensure high quality and reliability in production environments.",
+        "Implemented diagnostic tools that streamlined hardware debugging and accelerated the verification process."
+      ]
+    },
+    {
+      "id": "enway-manager",
+      "company": "Enway GmbH",
+      "role": "Technical Operations Manager",
+      "duration": "May 2021 - February 2022",
+      "location": "Berlin, Germany",
+      "description": [
+        "Managed the deployment and testing of industrial cleaning robots, ensuring robust hardware integration and operational readiness.",
+        "Developed commissioning protocols and test cases that bridged production design with field operations, enhancing overall system reliability.",
+        "Led teams in troubleshooting complex hardware and software issues, contributing to continuous design improvements."
+      ]
+    },
+    {
+      "id": "enway-engineer",
+      "company": "Enway GmbH",
+      "role": "Deployment Engineer",
+      "duration": "January 2020 - April 2021",
+      "location": "Berlin, Germany",
+      "description": [
+        "Conducted EMC testing and hardware commissioning of autonomous street sweepers, ensuring compliance with performance and safety standards.",
+        "Calibrated sensors, assisted with mechanical assembly, performed wiring, and built cable harnesses to optimise system integration.",
+        "Maintained inventory, implemented maintenance protocols, and planned testing schedules to improve operational efficiency.",
+        "Authored comprehensive user manuals and functional test plans while contributing to ongoing design enhancements."
+      ]
+    },
+    {
+      "id": "man-energy",
+      "company": "MAN Energy Solutions SE",
+      "role": "Masterand",
+      "duration": "February 2019 - July 2019",
+      "location": "Berlin, Germany",
+      "description": [
+        "Designed and built a custom experimental setup for vibration analysis of turbine blades, integrating sensors and data acquisition systems for precise measurement.",
+        "Developed scripts for data collection and analysis, enabling optimization of operating frequencies and enhanced turbine performance.",
+        "Bridged mechanical design with electronic instrumentation to ensure reliable operation under variable industrial conditions."
+      ]
+    },
+    {
+      "id": "premier-infra",
+      "company": "Premier Infra Pvt. Ltd.",
+      "role": "Assistant Manager",
+      "duration": "October 2013 - June 2014",
+      "location": "New Delhi, India",
+      "description": [
+        "Coordinated the maintenance and operation of heavy machinery such as cranes, generators, and pumps, ensuring high uptime and minimal disruptions.",
+        "Developed and implemented preventive maintenance and safety protocols, demonstrating a strong focus on system reliability and operational efficiency.",
+        "Managed technician teams and coordinated shift planning, showcasing effective project management and integration of complex systems."
+      ]
+    },
+    {
+      "id": "monnet-ispat",
+      "company": "Monnet Ispat Pvt. Ltd.",
+      "role": "Assistant Manager",
+      "duration": "September 2012 - October 2013",
+      "location": "New Delhi, India",
+      "description": [
+        "Led large-scale projects for the construction and operation of industrial pipelines, including a 4.2 km steam pipeline and integrated gas pipelines.",
+        "Supervised multi-disciplinary teams and ensured adherence to project timelines, budgets, and rigorous safety and quality standards.",
+        "Coordinated system integration efforts for critical infrastructure projects, highlighting a detail-oriented approach to design and operational optimization."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "major": "Mechanical and Automation Engineering",
+      "institution": "GGSIPU New Delhi"
+    },
+    {
+      "degree": "Master of Science",
+      "major": "Mechanical Engineering",
+      "institution": "HTW Berlin"
+    },
+    {
+      "degree": "Data Science Certification",
+      "major": null,
+      "institution": "SPICED Academy"
+    }
+  ],
+  "extracurricular": [
+    {
+      "role": "Mentor and Advisor",
+      "organization": "MotionLab.Berlin Tech talent programme"
+    },
+    {
+      "role": "Domain Expert",
+      "organization": "Carbon13 Venture Builder programme"
+    }
+  ]
+} 
