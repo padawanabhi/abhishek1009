@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website_sample/static/css/main.a6beac97.css",
-    "main.js": "/website_sample/static/js/main.a74e3322.js",
+    "main.js": "/website_sample/static/js/main.b735089d.js",
     "static/media/bertrandt.jpg": "/website_sample/static/media/bertrandt.1f3587bf9c3565aff2bb.jpg",
     "static/media/quasimodo.png": "/website_sample/static/media/quasimodo.395c632347a7d1ace928.png",
     "static/media/profilefoto.png": "/website_sample/static/media/profilefoto.5c4c39e68abcf9a69d0e.png",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.a6beac97.css",
-    "static/js/main.a74e3322.js"
+    "static/js/main.b735089d.js"
   ]
 }
