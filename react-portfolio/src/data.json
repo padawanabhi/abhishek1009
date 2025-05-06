@@ -7,7 +7,7 @@
       "handle": "@padawanabhi",
       "address": "Bürgerstraße 29. 12347 Berlin"
     },
-    "summary": "Innovative Robotics Hardware Engineer and Manager with a robust background in firmware development, prototyping, hardware commissioning, and systems integration for industrial and autonomous platforms. Proven expertise in deploying and testing electronic systems under harsh conditions, streamlining production processes, and driving design improvements from concept through to certification",
+    "summary": "Innovative Engineer and Manager with a robust background in firmware development, prototyping, hardware commissioning, and systems integration for industrial and autonomous platforms. Proven expertise in deploying and testing electronic systems under harsh conditions, streamlining production processes, and driving design improvements from concept through to certification",
     "competencies": [
       "Robotics Systems Integration & Sensor Fusion (LiDAR, Radar, Cameras, IMUs)",
       "Firmware Development & Embedded Systems",
@@ -25,7 +25,7 @@
       "id": "bearcover",
       "company": "Bearcover GmbH",
       "role": "Robotics Compliance Engineer (Part-time)",
-      "duration": "January 2025 - March 2025",
+      "duration": "January 2025 - Present",
       "location": "Berlin, Germany",
       "description": [
         "Spearheaded hardware design improvements to ensure the robotic system met stringent CE certification requirements for operation in extreme environments.",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "id": "voltvoegel",
+      "id": "voltvogel",
       "company": "VoltVogel UG",
       "role": "Co-Founder & COO",
       "duration": "June 2023 - November 2024",

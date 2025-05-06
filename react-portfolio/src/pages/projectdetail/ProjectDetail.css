@@ -1,0 +1,85 @@
+.project-detail-page.container {
+  padding-top: 40px; /* Adjust as needed */
+  padding-bottom: 40px;
+  max-width: 960px; /* Or your preferred max width */
+  color: #f8f9fa; /* Assuming a dark theme background */
+}
+
+.project-cover-image {
+  width: 100%;
+  height: auto; /* Maintain aspect ratio */
+  max-height: 450px; /* Limit height */
+  object-fit: cover;
+  border-radius: 0.5rem; /* Slightly rounded corners */
+  margin-bottom: 2rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.project-details-content {
+  text-align: left; /* Default to left align for content */
+}
+
+.project-title {
+  font-weight: bold;
+  color: var(--text-color); /* Use theme variable if available */
+}
+
+.project-subtitle {
+  font-size: 1.5rem; /* Adjust as needed */
+  color: var(--text-color-variant); /* Lighter than main text */
+  font-weight: 300;
+}
+
+.project-meta {
+  font-size: 0.95rem;
+  color: var(--text-color-variant);
+}
+.project-meta strong {
+ color: var(--text-color);
+}
+
+
+.project-description-block {
+  background-color: rgba(var(--bg-color-rgb), 0.05); /* Subtle background for the block if needed */
+  padding: 1.5rem;
+  border-radius: 0.3rem;
+  border: 1px solid rgba(var(--text-color-rgb), 0.1); /* Subtle border */
+}
+
+.section-title {
+  font-weight: 500;
+  color: var(--text-color);
+  border-bottom: 2px solid var(--secondary-color); /* Use theme variable */
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.project-description-list {
+  list-style-type: none; /* Remove default bullets */
+  padding-left: 0;
+}
+
+.project-description-list li {
+  line-height: 1.7;
+  color: var(--text-color); /* Use theme variable */
+  margin-bottom: 0.75rem; /* Space between bullet points */
+  padding-left: 1.2em; /* Indent for custom bullet/icon */
+  position: relative;
+}
+
+/* Custom bullet using ::before pseudo-element (optional) */
+.project-description-list li::before {
+  content: "✔"; /* Or any other icon/character, e.g., "►" */
+  color: var(--secondary-color); /* Use theme color */
+  position: absolute;
+  left: 0;
+  font-weight: bold;
+}
+
+.Not-found-container {
+    min-height: calc(100vh - 100px); /* Adjust 100px based on header/footer height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} 
